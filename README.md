@@ -10,15 +10,11 @@ El taller estará dividido en dos partes: anonimización y detección de anomal�
 
 ## Entorno de ejecución cloud: Google Colab
 
-La forma más cómoda de seguir el taller, nos olvidamos de preparar el entorno. Solo tendremos que iniciar sesión con nuestra cuenta de Google en Google Colab, buscar el repo del taller y abrir cada libreta:
-
-*[Google Colab](https://colab.research.google.com/)* > abrimos libreta con *GitHub* > buscamos *Gradiant/forotecnoloxico-2024-cybersecurity-data* > abrimos las libretas
-
-O todavía más fácil:
+La forma más cómoda de seguir el taller, nos olvidamos de preparar el entorno. Solo tendremos que abrir cada una de las libretas:
 
 <https://colab.research.google.com/github/Gradiant/forotecnoloxico-2024-cybersecurity-data/blob/master/data_anonymization.ipynb>
 
-<https://colab.research.google.com/github/Gradiant/forotecnoloxico-2024-cybersecurity-data/blob/master/AnomalyDetection.ipynb>
+<https://colab.research.google.com/drive/1pQ1luT0v7Oj8Ipi6_AeChI0Kh_ayAU_7>
 
 ## Entorno de ejecución local
 
